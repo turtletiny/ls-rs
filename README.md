@@ -1,0 +1,7 @@
+- [ ] ls
+- [ ] -a
+- [ ] -l
+- [ ] -R
+- [ ] -t
+- [ ] -s
+- [ ] config file for styling / colours
